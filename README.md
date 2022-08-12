@@ -4,11 +4,17 @@
 
 
 a) Clone the project from https://github.com/akbstrings/fingenttest.git
+
 b) Go to the folder application using cd command on your cmd or terminal
+
 c) Run composer install on your cmd or terminal
+
 d) Copy .env.example file to .env (create new file) on the root folder. You can type copy .env.example .env if using command prompt Windows or cp .env.example .env if using terminal, Ubuntu
+
 e) Open your .env file and change the database name (DB_DATABASE) to whatever you have, username (DB_USERNAME) and password (DB_PASSWORD) field correspond to your configuration.
+
 f) Run php artisan key:generate
+
 g) Run php artisan serve
 
 
