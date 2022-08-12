@@ -17,7 +17,7 @@ f) Run php artisan key:generate
 
 g) Run php artisan serve
 
-## DB SQL FILE in root folder
+## DB SQL FILE in root folder - fingenttest.sql
 
 ##  To Test
 
