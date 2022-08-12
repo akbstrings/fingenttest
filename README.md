@@ -13,9 +13,9 @@ d) Copy ".env.example" file to .env (create new file) on the root folder. You ca
 
 e) Open your .env file and change the database name (DB_DATABASE) to whatever you have, username (DB_USERNAME) and password (DB_PASSWORD) field correspond to your configuration.
 
-f) Run php artisan key:generate
+f) Run "php artisan key:generate"
 
-g) Run php artisan serve
+g) Run "php artisan serve" to run the project on browser
 
 ## DB SQL FILE in root folder - fingenttest.sql
 
